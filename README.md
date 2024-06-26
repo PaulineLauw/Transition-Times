@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project provides the code to assess transition time through ECG signal in varying anxiety stimuli. It is the author's semester project (12 credits) in ETH Zürich.
+This project provides the code to assess transition time through ECG signal in varying anxiety stimuli. 
 
 ## Summary
 
